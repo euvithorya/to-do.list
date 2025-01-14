@@ -5,4 +5,4 @@ Este é um projeto simples para gerenciar tarefas.
 - Clone o repositório
 - Rode o código
 
-:P
+:V
